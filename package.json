@@ -1,6 +1,6 @@
 {
   "name": "scrapbook-redirect",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,8 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.5",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "next": "10.2.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   }
 }
